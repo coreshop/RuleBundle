@@ -15,13 +15,13 @@ import { serviceIds } from '@pimcore/studio-ui-bundle/app'
 import { type IconLibrary } from '@pimcore/studio-ui-bundle/modules/icon-library'
 
 // @ts-ignore
-import apiIcon from '../assets/api.svg?react'
+import apiIcon from '../../assets/api.svg?react'
 // @ts-ignore
-import lightningIcon from '../assets/lightning.svg?react'
+import lightningIcon from '../../assets/lightning.svg?react'
 // @ts-ignore
-import searchIcon from '../assets/search.svg?react'
+import searchIcon from '../../assets/search.svg?react'
 // @ts-ignore
-import warningIcon from '../assets/warning.svg?react'
+import warningIcon from '../../assets/warning.svg?react'
 
 export const RuleBundleIconModule: AbstractModule = {
   onInit(): void {
