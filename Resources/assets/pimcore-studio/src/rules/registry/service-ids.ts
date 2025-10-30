@@ -10,6 +10,10 @@
  * @license    CoreShop Commercial License (CCL)
  */
 
-export { ConditionRegistry } from './ConditionRegistry'
-export { ActionRegistry } from './ActionRegistry'
-export { coreshopRuleServiceIds } from './service-ids'
+/**
+ * Service IDs for CoreShop Rule registries
+ */
+export const coreshopRuleServiceIds = {
+  actionRegistry: 'CoreShopRuleActionRegistry',
+  conditionRegistry: 'CoreShopRuleConditionRegistry'
+} as const
