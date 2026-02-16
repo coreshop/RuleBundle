@@ -10,8 +10,4 @@
  * @license    CoreShop Commercial License (CCL)
  */
 
-export * from './types'
-export * from './api'
-export * from './registry'
-export * from './components'
-export * from './conditions'
+export { NestedCondition } from './NestedCondition'
