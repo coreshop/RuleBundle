@@ -21,7 +21,7 @@
     },
     "globalName": "coreshoprule",
     "pluginVersion": "2.4.0",
-    "publicPath": "/bundles/coreshoprule/studio/3161b240-d93d-412c-8a6c-fbfefeb8bfa3/"
+    "publicPath": "/bundles/coreshoprule/studio/022c4082-4fd4-43c0-9851-a32a586d9be1/"
   },
   "shared": [
     {
@@ -76,8 +76,8 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/460.80de8f33.js",
-            "static/js/async/79.805183a3.js"
+            "static/js/async/460.3376842a.js",
+            "static/js/async/79.d95f5b89.js"
           ]
         },
         "css": {
@@ -97,7 +97,7 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/920.656be478.js"
+            "static/js/async/920.33cb3c72.js"
           ]
         },
         "css": {
@@ -117,7 +117,7 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/63.aa295ee9.js"
+            "static/js/async/63.ad482174.js"
           ]
         },
         "css": {
@@ -137,8 +137,8 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/695.d9f3c3cd.js",
-            "static/js/async/76.14c361d0.js"
+            "static/js/async/695.1c04c684.js",
+            "static/js/async/76.abc3440f.js"
           ]
         },
         "css": {
@@ -202,17 +202,17 @@
       "assets": {
         "js": {
           "sync": [
-            "static/js/748.a482bec2.js",
+            "static/js/748.06d6f59c.js",
             "static/js/387.53cacb5b.js",
-            "static/js/258.2911b6ac.js",
-            "static/js/265.cbf5a2c0.js",
-            "static/js/async/708.33396bd9.js",
-            "static/js/async/599.809041ab.js",
-            "static/js/async/780.46557959.js",
-            "static/js/459.4bdfc655.js",
-            "static/js/129.912d7074.js",
-            "static/js/6.0cd81839.js",
-            "static/js/async/__federation_expose_default_export.8687b6ef.js"
+            "static/js/258.4289dad1.js",
+            "static/js/265.2635ea55.js",
+            "static/js/async/708.8c04f658.js",
+            "static/js/async/599.c9af434a.js",
+            "static/js/async/780.16a51167.js",
+            "static/js/966.af2a7a9f.js",
+            "static/js/129.44b27619.js",
+            "static/js/6.5d15bbb2.js",
+            "static/js/async/__federation_expose_default_export.0476206c.js"
           ],
           "async": []
         },
